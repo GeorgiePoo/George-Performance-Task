@@ -1,7 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1702410203
+::res://::1702411511
 bg_music.mp3::AudioStreamMP3::7740025162993226110::1702401874::1702410204::1::::<><>::
 enemy.png::CompressedTexture2D::5591272491634969294::1702401874::1702410204::1::::<><>::
 enemy_hit.mp3::AudioStreamMP3::1957515573300041468::1702401874::1702410204::1::::<><>::
 icon.svg::CompressedTexture2D::7653978998285427738::1702401692::1702410204::1::::<><>::
+player.gd::GDScript::-1::1702411441::0::1::::<>Area2D<>::
+player.tscn::PackedScene::6796531021191543367::1702411435::0::1::::<><>::uid://dhbv6eyh45c07::::res://icon.svg<>res://player.gd
 README.md::TextFile::-1::1702409982::0::1::::<><>::
+world.tscn::PackedScene::752391744578857592::1702411459::0::1::::<><>::
